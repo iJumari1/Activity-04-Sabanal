@@ -1,6 +1,6 @@
 while True:
 
-    print("\nChoose Option: \n \n[1] Fixed Path \n[2] User Provided Path")
+    print("\nChoose Option: \n \n[1] Fixed Path \n[2] User Path")
     choice = int(input("You Choose: "))
 
     if choice == 1:
